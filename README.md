@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Kartik Marwari</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
-<p align="center">
-   <img src="https://imgs.search.brave.com/ijsptK1ebKgxgofw_n4zhL_0hot7D_eRm9jWnZzkRjs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPR1p2ZWpCNll6/Y3hkSHB2ZWpFMFpq/WjNjemw2WlRrNVpu/bG5kSGQ2WVhZemQy/WmpabkpzZVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vNjZNNlp3SmtU/TFlpa3ZocnFaL2dp/cGh5LmdpZg.gif" alt="" />
-</p>
+ 
+   <img src="https://imgs.search.brave.com/ijsptK1ebKgxgofw_n4zhL_0hot7D_eRm9jWnZzkRjs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPR1p2ZWpCNll6/Y3hkSHB2ZWpFMFpq/WjNjemw2WlRrNVpu/bG5kSGQ2WVhZemQy/WmpabkpzZVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vNjZNNlp3SmtU/TFlpa3ZocnFaL2dp/cGh5LmdpZg.gif" width="300px" align="right" alt="" />
+ 
 
 ---
 
