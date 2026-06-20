@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Marwari</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI & Multi-Agent Systems Builder</h3>
 
-<img src="https://media.giphy.com/media/VFKessgkSdIak/giphy.gif" width="300px" align="right" alt="AI Robot" />
+<img src="[https://media.giphy.com/media/VFKessgkSdIak/giphy.gif" width="300px" align="right" alt="AI Robot](https://giphy.com/explore/github)" />
 
 ---
 
